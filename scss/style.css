@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.bs {
+  border: 1px solid black;
+  padding: 10px;
+  margin: 10px;
+}
+
+#app1 .content {
+  background: #ddd;
+}
+
+#app1 .container .content .bdr {
+  background: greenyellow;
+  color: white;
+}
+
+#app2 .content {
+  background: #ddd;
+  margin: 10px;
+}
+
+#app2 .bdr {
+  padding: 20px;
+}
+/*# sourceMappingURL=style.css.map */
